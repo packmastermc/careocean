@@ -259,7 +259,7 @@ input, select, textarea {
 		}
 
 		.row.aln-center {
-			justify-content: center;
+			justify-content: left;
 		}
 
 		.row.aln-right {
@@ -502,7 +502,7 @@ input, select, textarea {
 				}
 
 				.row.aln-center {
-					justify-content: center;
+					justify-content: left;
 				}
 
 				.row.aln-right {
@@ -747,7 +747,7 @@ input, select, textarea {
 				}
 
 				.row.aln-center {
-					justify-content: center;
+					justify-content: left;
 				}
 
 				.row.aln-right {
@@ -992,7 +992,7 @@ input, select, textarea {
 				}
 
 				.row.aln-center {
-					justify-content: center;
+					justify-content: left;
 				}
 
 				.row.aln-right {
@@ -1004,7 +1004,7 @@ input, select, textarea {
 				}
 
 				.row.aln-middle {
-					align-items: center;
+					align-items: left;
 				}
 
 				.row.aln-bottom {
